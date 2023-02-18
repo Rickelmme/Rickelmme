@@ -20,4 +20,4 @@
 
 ## Email para contato
 
-📌 rickelmmebarreto@gmail.com
+📌 rickelmmecruz@gmail.com
