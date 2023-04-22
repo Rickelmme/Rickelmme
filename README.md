@@ -14,6 +14,15 @@
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br>
 
+<div align="center">
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
+
 📚 Cursando Gestão da Tecnologia da  Informação<br>
 💻 Cursando Python na Udemy<br>
 🤓 Apaixonado por tecnologia
