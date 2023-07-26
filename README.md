@@ -22,7 +22,7 @@
   
 </div>
 
- 👨‍💻 Python Developer<br>
+ 👨‍💻 Desenvolvedor Back-end<br>
 📚 Cursando Gestão da Tecnologia da Informação<br>
 🤓 Apaixonado por tecnologia
 
