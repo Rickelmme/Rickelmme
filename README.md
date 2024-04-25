@@ -20,7 +20,7 @@
   
 </div>
 
- 👨‍💻 Desenvolvedor Back-end<br>
+ 👨‍💻 Desenvolvedor Full-Stack>
 📚 Cursando Gestão da Tecnologia da Informação<br>
 🤓 Apaixonado por tecnologia
 
