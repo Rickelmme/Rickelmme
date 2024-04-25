@@ -20,7 +20,7 @@
   
 </div>
 
- 👨‍💻 Desenvolvedor Full-Stack>
+ 👨‍💻 Desenvolvedor Full-Stack<br>
 📚 Cursando Gestão da Tecnologia da Informação<br>
 🤓 Apaixonado por tecnologia
 
