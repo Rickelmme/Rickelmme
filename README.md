@@ -20,8 +20,8 @@
   
 </div>
 
- 👨‍💻 Desenvolvedor Full-Stack<br>
-📚 Cursando Gestão da Tecnologia da Informação<br>
+👨‍💻 Desenvolvedor Full-Stack<br>
+📚 Formado em Gestão da Tecnologia da Informação<br>
 🤓 Apaixonado por tecnologia
 
 ## Email para contato
